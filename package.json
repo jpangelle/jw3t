@@ -28,10 +28,10 @@
     "prepare": "yarn build & yarn test"
   },
   "dependencies": {
-    "@polkadot/api": "^6.12.1",
-    "@polkadot/keyring": "^8.1.2",
-    "@polkadot/util": "^8.1.2",
-    "@polkadot/util-crypto": "^8.1.2",
+    "@polkadot/api": "^9.8.1",
+    "@polkadot/keyring": "^10.1.9",
+    "@polkadot/util": "^10.1.9",
+    "@polkadot/util-crypto": "^10.1.9",
     "js-base64": "^3.7.2"
   },
   "exports": {
